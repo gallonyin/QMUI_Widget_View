@@ -1,0 +1,12 @@
+<resources>
+
+    <!-- FontFitTextView start -->
+    <attr name="qmui_minTextSize" format="dimension"/>
+    <attr name="qmui_maxTextSize" format="dimension"/>
+    <declare-styleable name="QMUIFontFitTextView">
+        <attr name="qmui_minTextSize"/>
+        <attr name="qmui_maxTextSize"/>
+    </declare-styleable>
+    <!-- FontFitTextView end -->
+
+</resources>
